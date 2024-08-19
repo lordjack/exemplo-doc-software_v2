@@ -1,6 +1,6 @@
 [Logo da Empresa/Organização]
 
-Documento de Visão
+# Documento de Visão
 
 Nome do Projeto: [Insira o nome do projeto]
 
