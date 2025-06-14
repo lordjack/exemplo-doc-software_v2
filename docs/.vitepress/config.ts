@@ -27,7 +27,10 @@ export default defineConfig({
         // text: 'Guide',
         items: [
           { text: 'Example', link: '/example' },
-          { text: 'Introdução', link: '/1_introducao' },
+          { text: '1 - Introdução', link: '/1_introducao' },
+          { text: '2 - Descrição Projeto', link: '/2_descricao_projeto' },
+          { text: '4 - Principais Recursos', link: '/4_diagrama_caso_uso' },
+          { text: '5 - Diagrama de Classe', link: '/5_diagrama_classe' },
           // ...
         ],
       },
